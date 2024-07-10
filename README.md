@@ -76,7 +76,7 @@ After starting both the frontend and backend:
 - The frontend of your To-do List application will be accessible at `http://localhost:3000` in your web browser.
 
 ### Authors
-- Your Name - [@hrutujamirgal](https://github.com/hrutujamirgal)
+-[@hrutujamirgal](https://github.com/hrutujamirgal)
 
     
 
